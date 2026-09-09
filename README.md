@@ -2,7 +2,12 @@
 name : papoom jamsuriya 
 student ID : 69219010018
 
-# Skill
+# My skill
 - Programmer
 - Database
 - Network
+
+# My favorite
+-game
+-sleep
+-coffe
